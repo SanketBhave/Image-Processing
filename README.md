@@ -1,1 +1,1 @@
-# CS-510-Programming-Assignemnts
+# Image Processing Assignments
